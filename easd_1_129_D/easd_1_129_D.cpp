@@ -7,5 +7,5 @@
   //-compiler yang bertugas sebagai menerjemahkan dari bahasa pemrograman menjadibahasa komputer
   //-operatiing system
   //-bahasa pemrograman
-  //-ukuran sesuai input
+  //-ukuran sesuai input 
 //
